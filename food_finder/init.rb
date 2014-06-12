@@ -1,3 +1,5 @@
+# a simple test change
+
 #### Food Finder ####
 #
 # Launch this Ruby file from the command line
